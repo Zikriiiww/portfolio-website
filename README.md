@@ -8,5 +8,3 @@ portfolio-website/
 └── images/         -> foto dan gambar proyek
 ```
 
-Buka index.html di browser, atau gunakan ekstensi Live Server di VS Code.
-Untuk GitHub Pages: unggah seluruh isi folder ini ke repository.
